@@ -1,0 +1,36 @@
+class Person
+{
+	//data members (characterestics)
+	string name;
+	string location;
+	long mobileNo;
+	DateTime dateOfBirth;	
+
+	public Person(){}
+
+	public Person(string name,string location, long mobileNo,DateTime dateOfBirth)
+	{
+		this.name = name;
+		this.location = location;
+		this.mobileNo = mobileNo;
+		this.dateOfBirth = dateOfBirth;
+	}
+
+	//methods (unctionalities)
+}
+
+//Person anilPersonRef = new Person();
+DateTime dt = new DateTime(2000,1,12);
+Person anilPersonRef = new Person("anil","Bengaluru",9090909090,dt);
+
+object creation:
+1. runtime looks into the class and finds out the data members and their data types
+2. runtime allocates memory blocks in the heap for those data member values to be stored
+3. then runtime invokes the constructor (the one which you have used in the code)
+   the constructor assigns values (Default or user-defined) to those data members (these values are stored in those memory blocks)
+4. the runtime returns the initial memory address (reference) to that object and that reference is stored in the reference variable of the class as declared by you in the code
+
+? => with value type => Nullable type
+  => with reference type => null check
+
+
