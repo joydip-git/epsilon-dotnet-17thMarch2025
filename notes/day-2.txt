@@ -33,4 +33,23 @@ object creation:
 ? => with value type => Nullable type
   => with reference type => null check
 
+int? x = null; or Nullable<int> x = null;
+Person? personRef = nulll;
+personRef?.SomeMethod();
+
+
+class access spcifiers:
+	public: the class is accessible within the same as well as from oustide the application, where it has been declared
+	internal: the class is accessible ONLY within the same application BUT NOT from oustide the application, where it has been declared. any class is by default internal if no other acces specifier has been mentioned.
+
+
+class members access spcifiers:
+	private: the class member is accessible ONLY within the same class
+	protected: the class member is accessible ONLY within the same class as well as within the inherited class
+	public: the class member is accessible within the same as well as from oustide the application, where it has been declared
+	internal: the class member is PUBLICLY accessible ONLY within the same application BUT NOT from oustide the application, where it has been declared,as if it private.
+
+
+
+
 
