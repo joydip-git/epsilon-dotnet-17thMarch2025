@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\refint\ArrayApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\ArrayApp\ArrayApp\obj\Debug\net8.0\ref\ArrayApp.dll
