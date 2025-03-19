@@ -1,0 +1,21 @@
+Inheritance:
+	a. single-level
+		A <- B
+	b. multi-level
+		A <- B <- C
+	c. multiple
+		A, B <- C
+
+Note: Child class can't be more accessible than its base class
+	i.e. if the base class is internal, child class can't be public
+
+ctor execution sequence in inheritance:
+when any child class ctor is called, automatically base class's default ctr is invoked implicitly
+
+
+
+
+
+
+
+

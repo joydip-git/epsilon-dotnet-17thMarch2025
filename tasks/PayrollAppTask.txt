@@ -1,4 +1,5 @@
 create console app: PayrollApp
+
 Add a class file: Developer.cs with a class inside it: Developer
 
 Developer class structure:
@@ -29,11 +30,62 @@ Developer class structure:
 			arguments: NA
 			return value: void
 
-in the Main method of Program class in Program.cs, create at least one object of Developer class and assign the values to the data members. Then calculate the total pay and then print the same.
+in the Main method of Program class in Program.cs, create at least one object of each class and assign the values to the data members. Then calculate the total pay and then print the same.
 
 Note: 
 	accept all the values from user
 	create the object in separate method. the method will create the instance and return the instance to the Main method.
 	In the main method you will calculate the total pay and print the same
+
+
+
+Enhancement-1:
+------------------------------
+Now, Add one more class file: Hr.cs with a class inside it: Hr
+
+Hr class structure:
+	Data Members:
+		id (int) -> should be assigned ONLY through constructor
+		name (string)
+		basicPay (decimal)
+		daPay (decimal)
+		hraPay (decimal)
+		gratuityPay (decimal)
+		totalPay (decimal) -> will be set by a method, will NOT be passed from outside the class
+
+	Constructors:
+		default ctor
+		parameterized ctor -> will assign value to all data members, except the "totalPay"
+	
+	Properties:
+		Id for id -> readonly property
+		Name for name
+		BasicPay for basicPay
+		DaPay for daPay
+		HraPay for hraPay
+		GratuityPay for gratuityPay
+		TotalPay for totalPay -> readonly property
+		
+	Functionalities:
+		CalculateSalary:
+			arguments: NA
+			return value: void
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
