@@ -12,6 +12,46 @@ Note: Child class can't be more accessible than its base class
 ctor execution sequence in inheritance:
 when any child class ctor is called, automatically base class's default ctr is invoked implicitly
 
+base keyword
+access specifier for set and get in a property
+
+Upcasting: a variable of base class can store reference of an object of child class of that base class
+
+static/compile-time polymorphism:
+a. method overloading:
+a class can have multiple methods with the same name, but difference in
+	a. number of parameters
+	b. data type of parameters
+	c. position of parameters
+
+static void Add(int a, int b){}
+static void Add(int a, int b, int c){}
+static void Add(int a, int b, long c){}
+static void Add(int a, long b, int c){}
+
+Add(12,13,123456789123);
+
+b. operator overloading:
+	+
+	
+
+dynamic/run-time polymorphism:
+a base class and a child class (minimum) have ditto same method (signature-wise) and during runtime based on which object got created, that class object's method will be called
+
+public virtual void CalculateSalary(){}
+public override void CalculateSalary(){}
+
+Employee? emp = Create(choice);
+
+A aObj = new A();
+
+B bObj = new B();
+bObj.Method(); -> child (B) class method will be called
+
+//up-casting
+A obj = new B();
+obj.Method(); -> base (A) class method will be called
+
 
 
 

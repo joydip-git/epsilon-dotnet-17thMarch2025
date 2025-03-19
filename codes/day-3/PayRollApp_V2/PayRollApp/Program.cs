@@ -6,13 +6,40 @@ namespace PayRollApp
     {
         static void Main()
         {
-            Developer? developer = Create();
-            developer?.CalculateSalary();
-            Console.WriteLine($"Total salary of {developer?.Name} is {developer?.TotalPay}");
+            PrintMenu();
+            int choice = GetChoice();
 
-            Hr? hr = Create();
+            Employee? emp = Create(choice);
+            PrintSalary(emp);
+            //emp?.CalculateSalary();
+            //Console.WriteLine($"Total salary of {emp?.Name} is {emp?.TotalPay}");
         }
-        static Developer? Create()
+        static void PrintSalary(Employee? emp)
+        {
+            emp?.CalculateSalary();
+            Console.WriteLine($"Total salary of {emp?.Name} is {emp?.TotalPay}");
+        }
+        //static void PrintSalary(Developer developer)
+        //{
+        //    developer.CalculateSalary();
+        //}
+        //static void PrintSalary(Hr hr)
+        //{
+        //    hr.CalculateSalary();
+        //}
+
+        static int GetChoice()
+        {
+            Console.Write("\nenter choice[1/2]: ");
+            return int.Parse(Console.ReadLine() ?? "1");
+        }
+
+        static void PrintMenu()
+        {
+            Console.WriteLine("1. Developer \n2. Hr");
+        }
+
+        static Employee? Create(int choice)
         {
             Console.Write("enter name: ");
             string name = Console.ReadLine() ?? "";
@@ -21,35 +48,34 @@ namespace PayRollApp
             int id = rand.Next(100, 500);
 
             Console.Write("enter basic payment: ");
-            //decimal basic = decimal.Parse(Console.ReadLine() ?? "0");
-            decimal basic;
-            decimal.TryParse(Console.ReadLine() ?? "0", out basic);
+            decimal.TryParse(Console.ReadLine() ?? "0", out decimal basic);
 
             Console.Write("enter da payment: ");
-            //decimal da;
             decimal.TryParse(Console.ReadLine() ?? "0", out decimal da);
 
             Console.Write("enter hra payment: ");
-            decimal hra;
-            decimal.TryParse(Console.ReadLine() ?? "0", out hra);
+            decimal.TryParse(Console.ReadLine() ?? "0", out decimal hra);
 
-            Console.Write("enter incentive payment: ");
-            //decimal incentive = decimal.Parse(Console.ReadLine() ?? "0");
-            decimal.TryParse(Console.ReadLine() ?? "0", out decimal incentive);
+            Employee? employee = null;
 
-            //Developer developer = new Developer();
-            //Developer developer = new();
+            switch (choice)
+            {
+                case 1:
+                    Console.Write("enter incentive payment: ");
+                    decimal.TryParse(Console.ReadLine() ?? "0", out decimal incentive);
+                    employee = new Developer(name: name, id: id, basicPay: basic, daPay: da, hraPay: hra, incentivePay: incentive);
+                    break;
 
-            Developer developer = new(
-                name: name,
-                id: id,
-                basicPay: basic,
-                daPay: da,
-                hraPay: hra,
-                incentivePay: incentive
-                );
+                case 2:
+                    Console.Write("enter gratuity payment: ");
+                    decimal.TryParse(Console.ReadLine() ?? "0", out decimal gratuity);
+                    employee = new Hr(name: name, id: id, basicPay: basic, daPay: da, hraPay: hra, gratuityPay: gratuity);
+                    break;
 
-            return developer;
+                default:
+                    break;
+            }
+            return employee;
         }
     }
 }
