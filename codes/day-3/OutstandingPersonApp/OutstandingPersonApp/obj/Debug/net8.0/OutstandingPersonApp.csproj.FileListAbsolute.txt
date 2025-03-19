@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\bin\Debug\net8.0\OutstandingPersonApp.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\bin\Debug\net8.0\OutstandingPersonApp.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\bin\Debug\net8.0\OutstandingPersonApp.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\bin\Debug\net8.0\OutstandingPersonApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\bin\Debug\net8.0\OutstandingPersonApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\refint\OutstandingPersonApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\OutstandingPersonApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-3\OutstandingPersonApp\OutstandingPersonApp\obj\Debug\net8.0\ref\OutstandingPersonApp.dll
