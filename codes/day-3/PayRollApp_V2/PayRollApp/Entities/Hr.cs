@@ -29,6 +29,11 @@
             base.CalculateSalary();
             TotalPay += gratuityPay;
         }
+
+        public override string GetInformation()
+        {
+            return $"{base.GetInformation()}, GratuityPay={gratuityPay}";
+        }
         #endregion
     }
 }

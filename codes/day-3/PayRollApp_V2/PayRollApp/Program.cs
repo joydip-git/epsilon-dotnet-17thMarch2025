@@ -19,6 +19,24 @@ namespace PayRollApp
             emp?.CalculateSalary();
             Console.WriteLine($"Total salary of {emp?.Name} is {emp?.TotalPay}");
         }
+        static void PrintInfo(Employee? employee)
+        {
+            Console.WriteLine(employee?.GetInformation());
+        }
+        //static void PrintInfo(Employee? employee)
+        //{
+        //    if(employee is Developer)
+        //    {
+        //        //down-casting (explicit)
+        //        Developer dev = (Developer)employee;
+        //        dev.GetDevInfo();
+        //    }
+        //    if (employee is Hr)
+        //    {
+        //        Hr hr = (Hr)employee;
+        //        hr.GetHrInfo();
+        //    }
+        //}
         //static void PrintSalary(Developer developer)
         //{
         //    developer.CalculateSalary();

@@ -1,0 +1,33 @@
+create a console app by the name: OutstandingApp
+Find out which student/professor is/are outstanding
+
+Student:
+	attributes: name, marks
+	constructors: both default and parameterized
+	properties: for both data members
+	method: a method which returns boolean indicating whether the student is outstanding or not
+	
+
+Professor:
+	name, booksPublished
+	constructors: both default and parameterized
+	properties: for both data members
+	method: a method which returns boolean indicating whether the professor is outstanding or not
+
+in Main method:
+create 2 objects each of student and professor and print ONLY those professor/student's information (name and extra) who is/are outstanding
+
+1. ask user to enter number of records
+2. create an array to store the object references that you are about to create
+3. provide a series of choices for end user to create either professor or student
+4. ask user to enter choice
+5. based on that create instance of any of the class
+6. store the object in an array
+7. iterate through the array and find out which entity is outstanding and display the information about that entity only
+
+
+
+
+
+
+

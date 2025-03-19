@@ -29,6 +29,11 @@
             base.CalculateSalary();
             TotalPay += incentivePay;
         }
+
+        public override string GetInformation()
+        {
+            return $"{base.GetInformation()}, Incentive={incentivePay}";
+        } 
         #endregion
     }
 }

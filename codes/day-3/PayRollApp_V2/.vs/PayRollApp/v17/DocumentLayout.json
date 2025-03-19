@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-3\\payrollapp_v2\\payrollapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-3\\payrollapp_v2\\payrollapp\\entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-3\\payrollapp_v2\\payrollapp\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-3\\payrollapp_v2\\payrollapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016A3E41-33DF-4AEB-B828-032402C4D494}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,46 +36,46 @@
               "RelativeDocumentMoniker": "PayRollApp\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Program.cs",
               "RelativeToolTip": "PayRollApp\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:26:41.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Hr.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Hr.cs",
               "RelativeDocumentMoniker": "PayRollApp\\Entities\\Hr.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Hr.cs",
               "RelativeToolTip": "PayRollApp\\Entities\\Hr.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:24:36.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Developer.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Developer.cs",
               "RelativeDocumentMoniker": "PayRollApp\\Entities\\Developer.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Developer.cs",
               "RelativeToolTip": "PayRollApp\\Entities\\Developer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:17:17.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "PayRollApp\\Entities\\Employee.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-3\\PayRollApp_V2\\PayRollApp\\Entities\\Employee.cs",
               "RelativeToolTip": "PayRollApp\\Entities\\Employee.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAIA4wDkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAxwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:17:08.34Z",
               "EditorCaption": ""

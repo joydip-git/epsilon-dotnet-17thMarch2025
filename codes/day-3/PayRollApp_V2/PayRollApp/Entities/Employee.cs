@@ -59,6 +59,10 @@
         {
             totalPay = basicPay + daPay + hraPay;
         }
+        public virtual string GetInformation()
+        {
+            return $"Name={name}, Salary={totalPay}";
+        }
         #endregion
     }
 }

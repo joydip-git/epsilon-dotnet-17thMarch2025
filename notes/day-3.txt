@@ -52,6 +52,83 @@ bObj.Method(); -> child (B) class method will be called
 A obj = new B();
 obj.Method(); -> base (A) class method will be called
 
+Abstract Method/Property:
+a method and/or property declared without any implementation is abstract method/property
+
+public abstract string ReadData();
+public abstract string Name { set; get; }
+
+Abstract class:
+a class with at least one abstract method/ property. the class must be declared with abstract
+Note: actually any class declared with abstract keyword is abstract, even without any real abstract method/property
+abstarct class A{}
+
+1. you can't create instance of an abstarct class
+2. it can have data members, other methods, explicit constructors (i.e. just like other concrete class)
+3. you can do upcasting
+4. provides dynamic polymorphism
+5. the abstract methods/properties of base clas MUST be implemented in the child class. otherwise the child class will become an abstract class and you have to declare that class with abstract keyword
+
+abstract class Device
+{
+	public abstract void Type();
+}
+
+class TypeWriter:Device
+{
+	public override void Type(){}
+}
+
+class Mobile:Device
+{
+	public override void Type(){}
+}
+
+abstract class Reader
+{
+	string data;
+	public Reader(){}
+	public abstract string ReadData();
+	public void Show(){}
+	public virtual void Print(){}
+}
+
+class TextFileReader:Reader
+{
+	public override string ReadData(){ //base.ReadData(); }
+	public override void Print(){}
+}
+
+class OracleDataReader:Reader
+{
+	public override string ReadData(){}
+}
+
+
+base class -> Method()
+child class will inherit that
+create object of child class and call that method, it will be called (base class method)
+
+class A{ public void Method(){} }
+class B: A{ }
+
+base class -> Method()
+child class will inherit that and wants to provide code different from the base and wants to also re-use the base class method
+create object of child class and call that method, it will be called (child class method)
+
+class A{ public virtual void Method(){} }
+class B: A{ public override void Method(){} }
+
+base class -> Method() without any implementation (code)
+child class will inherit that and has to provide a complete new implementation
+create object of child class and call that method, it will be called (child class method)
+
+abstract class A{ public abstract void Method();}
+class B: A{ public override void Method(){} }
+
+
+
+
 
 
 
