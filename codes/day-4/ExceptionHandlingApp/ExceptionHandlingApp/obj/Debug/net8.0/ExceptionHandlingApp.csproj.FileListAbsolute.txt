@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net8.0\ExceptionHandlingApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\refint\ExceptionHandlingApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ExceptionHandlingApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net8.0\ref\ExceptionHandlingApp.dll

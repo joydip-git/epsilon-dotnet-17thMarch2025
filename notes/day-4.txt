@@ -176,6 +176,31 @@ class Person
 }
 Person p = new Person(1) { Name = "anil" };
 
+Exception Handling:
+----------------------------
+
+			Exception
+SystemException				ApplicationException
+	DivideByZeroException
+	StackOverFlowException
+	ArgumentException
+	NullReferenceException
+	IndexOutOfRangeException
+	..........
+
+try{ //code}
+catch(Exception ex){} <- not a good practice
+
+Note: try to catch exception using specific catch block
+	use catch block with Exception class as fail-safe option
+	try can have more than one catch block. then, catch block with super class should be the last one the multiple catch blocks.
+	anything declared inside try or catch is/are local to the try or catch
+
+finally: code inside this block is executed regardless of any exception that has occurred
+	one try can have only one finally block
+
+
+
 
 
 
