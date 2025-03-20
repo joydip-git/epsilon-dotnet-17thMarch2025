@@ -199,6 +199,63 @@ Note: try to catch exception using specific catch block
 finally: code inside this block is executed regardless of any exception that has occurred
 	one try can have only one finally block
 
+static:
+--------------------
+
+class Person
+{
+	public string Name {get; set;}
+	public int Id {get; set;}
+	public string Company {get => company; set => company=value;}
+	
+	static string company = "Epsilon";
+
+	//static ctor is used to assign value(s) to static data member(s)
+	//this ctor will called by runtime IMPLICITLY whenever you call any other ctor of this class
+	//since it is called IMPLICITLY, you DO NOT use any access specifier with it
+	//since it can't be invoked explicitly (from outside or even from iside the class), that's why there is question of overloding it
+	//this ctor is called exactly ONE time, when you create the very first object of this class or access some other publicly accessible static members (such as other static data, method or property)
+	static Person()
+	{
+		company = "Epsilon";
+	}
+	
+	public Person(string name, int id)
+	{
+		this.Name = name;
+		this.Id = id;
+		//company = "Epsilon";
+	}
+
+	public static string GetCompany()
+	{
+		return company;
+	}	
+}
+
+Person p1 = new Person { Name="anil", Id=1, Company="Epsilon"};
+Person p2 = new Person { Name="sunil", Id=2, Company="Epsilon"};
+
+or
+
+Person.GetCompany();
+
+generic collection classes
+------------------------------
+List<T>
+Stack<T>
+Queue<T>
+Dictionary<TKey,TValue>
+SortedList<TKey,TValue>
+.....
+
+generic collection interfaces
+------------------------------
+IEnumerable<T>
+ICollection<T>
+IList<T>
+.....
+
 
 
 

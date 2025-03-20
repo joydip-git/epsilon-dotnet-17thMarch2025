@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\bin\Debug\net8.0\GenericCollectionsApp.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\bin\Debug\net8.0\GenericCollectionsApp.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\bin\Debug\net8.0\GenericCollectionsApp.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\bin\Debug\net8.0\GenericCollectionsApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\bin\Debug\net8.0\GenericCollectionsApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\refint\GenericCollectionsApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\GenericCollectionsApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\GenericCollectionsApp\GenericCollectionsApp\obj\Debug\net8.0\ref\GenericCollectionsApp.dll

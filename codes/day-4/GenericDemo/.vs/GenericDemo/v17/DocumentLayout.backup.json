@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-4\\genericdemo\\genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-4\\genericdemo\\genericdemo\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-4\\genericdemo\\genericdemo\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF0BACE-932C-4CC0-9675-793649A34243}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\MyCollection.cs",
+              "RelativeDocumentMoniker": "GenericDemo\\MyCollection.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\MyCollection.cs",
+              "RelativeToolTip": "GenericDemo\\MyCollection.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:10:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\Addition.cs",
+              "RelativeDocumentMoniker": "GenericDemo\\Addition.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\Addition.cs",
+              "RelativeToolTip": "GenericDemo\\Addition.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:09:32.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDemo\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-4\\GenericDemo\\GenericDemo\\Program.cs*",
+              "RelativeToolTip": "GenericDemo\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAIA4wBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:02:49.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
