@@ -13,10 +13,10 @@
                 int firstNumber = GetValueFromUser();
                 int secondNumber = GetValueFromUser();
 
-                int? calculationResult = Calculate(choice, firstNumber, secondNumber);
-                if (calculationResult.HasValue)
+                int? calculationResult = Calculate(choice, firstNumber, secondNumber, out string? methodName);
+                if (calculationResult.HasValue && methodName != null)
                 {
-                    Console.WriteLine("Result is " + calculationResult.Value);
+                    Console.WriteLine($"Result of {methodName} is {calculationResult}");
                 }
                 else
                     Console.WriteLine("could not perform calculation");
@@ -55,33 +55,38 @@
         }
 
         //Business Logic Methods
-        static int? Calculate(int choice, int firstValue, int secondValue)
+        static int? Calculate(int choice, int firstValue, int secondValue, out string? methodName)
         {
             int? result = null;
             switch (choice)
             {
                 case 1:
+                    methodName = nameof(Add);
                     result = Add(firstValue, secondValue);
                     break;
 
                 case 2:
+                    methodName = nameof(Subtract);
                     result = Subtract(firstValue, secondValue);
                     break;
 
                 case 3:
+                    methodName = nameof(Multiply);
                     result = Multiply(firstValue, secondValue);
                     break;
 
                 case 4:
+                    methodName = nameof(Divide);
                     result = Divide(firstValue, secondValue);
                     break;
 
                 default:
+                    methodName = null;
                     break;
             }
             return result;
         }
-        
+
         static int Add(int first, int second)
         {
             return first + second;

@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\bin\Debug\net8.0\ShapeAreaApp.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\bin\Debug\net8.0\ShapeAreaApp.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\bin\Debug\net8.0\ShapeAreaApp.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\bin\Debug\net8.0\ShapeAreaApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\bin\Debug\net8.0\ShapeAreaApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\refint\ShapeAreaApp.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ShapeAreaApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-4\ShapeAreaApp\ShapeAreaApp\obj\Debug\net8.0\ref\ShapeAreaApp.dll

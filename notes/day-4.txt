@@ -1,0 +1,189 @@
+interface:
+	pure abstract class
+	should be declared with interface keyword.
+	Naming convention: start with uppercase "I", followed by the interface name in pascal casing
+	can have ONLY abstract members (methods/properties)
+	can't have data members
+	can't have non-abstract methods/properties
+	can't have explicit constructors
+	can't instantiate 
+	all members are by default abstract and public, hence do not use those access modifiers and specifiers
+	when a class implements an interface, the interface members MUST be implemented in that class. while doing that NO NEED TO USE override keyword.
+	if the class DO NOT implement the abstract members, the class becomes an abstract class. hence declare the class with abstract keyword and also DECLARE the same interface methods again in the class, this time using "public" and "abstract" keywords
+	any interface can inherit from one or more than one interface
+	a class can implement one or more than one interface
+	if any class inherits from another class and also implements one or more than one interface, in that case, mention the class name first and then the interface names
+	you can do up-casting of class object reference to interface variable, just like abstract and concrete classes
+
+interface IData
+{
+	string Data { get;}
+}
+
+interface IOperations:IData
+{
+	void ReadData(string path);	
+}
+
+//if you implement the interface members
+class FileDataOperations:IOperations
+{
+	string data;
+	public Operations(){}
+	public void ReadData(string path)
+	{
+		//code
+	}	
+	public string Data 
+	{
+		get => data
+	}
+}
+
+//if you do not implement the interface members
+abstract class OperationsContract:IOperations
+{
+	string data;
+	public Operations(){}
+	public void ReadData(string path)
+	{
+		//code
+	}
+	public abstract string Data {get;}
+}
+
+interface IA { void M1(); void M5();}
+interface IB { void M2(); void M5();}
+class Sample{ public virtual void M3(){} }
+
+class C: Sample, IA, IB 
+{
+	public void M1(){}
+	public void M2(){}
+	public override void M3(){}
+	public void M4(){}
+	public void M5(){}
+}
+
+C obj = new C();
+//implicit invocation of interface/base class members
+obj.M1(); 
+obj.M2(); 
+obj.M3();
+obj.M4();
+obj.M5();
+
+//up-casting
+//explicit invocation of interface/base class members
+IA ia = obj;
+ia.M1();
+
+IB ib = obj;
+ib.M2();
+
+Sample sample = obj;
+sample.M3();
+
+class A 
+{ 
+	public void M1(){}
+	public void M2(){}
+} 
+class B 
+{ 
+	public void M1(){}
+	public void M3(){}
+} 
+class C:A, B
+{
+}
+
+C obj = new C();
+obj.M1();
+
+
+automatic or auto-implemented property:
+------------------------------------------------------
+class Circle { public double Radius { get; set; } }
+
+Note: if set and get have more than on line of code (assignmemt or return value of data member) choose regular property over automatic property
+
+class Circle 
+{
+	 private double _radius;
+	 public double Radius
+	{
+   		get => _radius;
+		set
+    		{
+		        if (value > 0)
+		            _radius = value;
+		}
+	}
+}
+
+Type Information/Metadata:
+------------------------------------------
+you can extract metadata or imformation about a data type using
+	a. GetType() method of Object class
+	b. typeof() opreator
+
+a. Using GetType():
+
+class Circle {....}
+Circle c = new Circle();
+Type circleType = c.GetType();
+
+a. Using typeof() operator:
+
+class Circle {....}
+Type circleType = typeof(Circle);
+
+nameof() operator: 
+--------------------------------------
+extracting/generating the string "name" of a type/type members etc.
+
+class Circle 
+{
+  public double CalculateArea(){}
+}
+string name = nameof(Circle)
+
+Object initializer techinque:
+----------------------------------
+Scenario 1:
+class Person
+{
+	public string Name {get; set;}
+	public int Id {get; set;}
+}
+
+Person p = new Person() {Name = "anil", Id=1 };
+or
+Person p = new Person {Name = "anil", Id=1 };
+
+Scenario 2:
+class Person
+{
+	private readonly int id;
+
+	public Person(){}
+	public Person(int id, string name = ""){ this.id = id; this.name = name;}
+
+	public int Id => id;
+	public string Name {get; set;}
+	
+}
+Person p = new Person(1) { Name = "anil" };
+
+
+
+
+
+
+
+
+
+
+
+
