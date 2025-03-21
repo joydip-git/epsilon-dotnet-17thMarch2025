@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\bin\Debug\net8.0\ProductManagementSystem.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\bin\Debug\net8.0\ProductManagementSystem.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\bin\Debug\net8.0\ProductManagementSystem.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\bin\Debug\net8.0\ProductManagementSystem.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\bin\Debug\net8.0\ProductManagementSystem.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\refint\ProductManagementSystem.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ProductManagementSystem.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\ProductManagementSystem\ProductManagementSystem\obj\Debug\net8.0\ref\ProductManagementSystem.dll

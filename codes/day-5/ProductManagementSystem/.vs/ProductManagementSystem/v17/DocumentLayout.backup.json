@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\productmanagementsystem\\productmanagementsystem\\userinterface\\pmsuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\userinterface\\pmsuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\productmanagementsystem\\productmanagementsystem\\businesslayer\\businessutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\businesslayer\\businessutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\productmanagementsystem\\productmanagementsystem\\businesslayer\\productbusinesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\businesslayer\\productbusinesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\productmanagementsystem\\productmanagementsystem\\dataaccesslayer\\productdaocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CCF72B-FFE9-4C4A-9F61-6873AD120C99}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\dataaccesslayer\\productdaocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PmsUserInterface.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\UserInterface\\PmsUserInterface.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\UserInterface\\PmsUserInterface.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\UserInterface\\PmsUserInterface.cs*",
+              "RelativeToolTip": "ProductManagementSystem\\UserInterface\\PmsUserInterface.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:23:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessUtility.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\BusinessLayer\\BusinessUtility.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\BusinessLayer\\BusinessUtility.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\BusinessLayer\\BusinessUtility.cs",
+              "RelativeToolTip": "ProductManagementSystem\\BusinessLayer\\BusinessUtility.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:21:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDaoComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
+              "RelativeToolTip": "ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:48:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductBusinessComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\BusinessLayer\\ProductBusinessComponent.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\BusinessLayer\\ProductBusinessComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\BusinessLayer\\ProductBusinessComponent.cs",
+              "RelativeToolTip": "ProductManagementSystem\\BusinessLayer\\ProductBusinessComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:43:11.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
