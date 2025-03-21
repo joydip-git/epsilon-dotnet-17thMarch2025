@@ -44,6 +44,7 @@ interlization => having the logic of comparison for sorting inside the user-defi
 
 a. if the user-defined type does not implement the IComparable<T> interface, then Sort() method of List<T> will fail
 b. this internalization does not allow you to sort based on criteria
+c. authro of the class has implemented Icomparable<t>, but you want to use different logic for comparison than the one written by author of the class inside CompareTo() method
 
 externalization => having the logic of comparison for sorting out-side the user-defined type itself, in a separate class. Implement the IComparer<T> in the class other than th user-defined type.
 
