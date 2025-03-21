@@ -1,0 +1,39 @@
+create an application for managing products
+1. adding new product
+2. displaying all the products
+3. displaying a single product detail
+4. updating a product
+5. deleting a product
+
+Features:
+in your application maintain an unique collection of products
+
+1. adding new product
+	 - user should be able to add a new product in that collection by providing product details (id should be auto-generated)
+	 - user should NOT be able to add duplicated product record
+
+2. displaying all the products
+	- all products should be displayed in fornt of the user 
+	- while displaying, all the products MUST be sorted by default by product id
+	- user should be able to sort the products based on different criteria, such as - name, id, price
+
+3. displaying a single product detail
+	- user should be able to fetch a product from the collection (should be existing), by product id
+	Note: product od will be selected by user from the list of products
+
+4. updating a product
+	- user should be able to update a product detail in the collection by product id
+	Note: user should select an id of the product to update and then will provide the updated values for the product (id should remain unchanged)
+
+5. deleting a product
+	- user should be able to select an id of the product to delete from the collection and then that product should be deleted (if existing)
+
+entity details:
+name - Product
+attributes - id, name, price, description
+Note: id should be of type string, such as: PRO-001
+      id should be auto-incrementational (incremented by 1)
+
+Notes:
+	exception handling is MUST in every method, but the exception details will be displayed ONLY in the Main method
+	use modularity (multiple methods, each doing exactly one job)
