@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\refint\LinqDemo.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-5\LinqDemo\LinqDemo\obj\Debug\net8.0\ref\LinqDemo.dll

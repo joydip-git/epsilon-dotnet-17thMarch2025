@@ -48,3 +48,8 @@ c. authro of the class has implemented Icomparable<t>, but you want to use diffe
 
 externalization => having the logic of comparison for sorting out-side the user-defined type itself, in a separate class. Implement the IComparer<T> in the class other than th user-defined type.
 
+
+List<int> list = [1,2,3,4,5];
+
+
+
