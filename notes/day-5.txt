@@ -1,0 +1,49 @@
+HashSet<T> calculates a hash code from the item that you are adding using GetHashCode() method. 
+If the hash code of any of the item that you are trying to add is NOT equal to the hash code of previously added item, then the item will be added.
+
+If hash code of any of the item that you are trying to add is equal to the hash code of previously added item, then the HashSet<T> will now use Equals() method to check whether the values are equal or not (in case of value type) or reference is equal or not (in case of reference type). if the Equals() method returns true, it will NOT allow you to add the duplicate item. else the item will be added.
+
+
+Comparison between items:
+----------------------------------
+IComparable<T> => int CompareTo(T? x);
+return value >0  => current item (this) is greater than the other item (x)
+return value <0  => current item (this) is less than the other item (x)
+return value ==0 => current item (this) is equal to the other item (x)
+
+class Person: IComparable<Person>
+{
+	public int CompareTo(T? x){ .... }
+}
+
+Person p1 = new Person {....};
+Person p2 = new Person {....};
+p1.CompareTo(p2);
+
+IComparer<T> => int Compare(T? x, T? y);
+return value >0  => current item (this) is greater than the other item (x)
+return value <0  => current item (this) is less than the other item (x)
+return value ==0 => current item (this) is equal to the other item (x)
+
+class Person: IComparable<Person>
+{
+	public int CompareTo(T? x){ .... }
+}
+
+class PersonComparsion: IComparer<Person>
+{
+	public int Compare(T? x,T? y){ .... }
+}
+
+Person p1 = new Person {....};
+Person p2 = new Person {....};
+PersonComparison pc = new ();
+pc.Compare(p1,p2);
+
+interlization => having the logic of comparison for sorting inside the user-defined type itself. Implement the IComparable<T> in the user-defined type (this is by default expected by the Sort() method of List<T> class)
+
+a. if the user-defined type does not implement the IComparable<T> interface, then Sort() method of List<T> will fail
+b. this internalization does not allow you to sort based on criteria
+
+externalization => having the logic of comparison for sorting out-side the user-defined type itself, in a separate class. Implement the IComparer<T> in the class other than th user-defined type.
+

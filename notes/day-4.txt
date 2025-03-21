@@ -251,7 +251,7 @@ SortedList<TKey,TValue>
 
 generic collection interfaces
 ------------------------------
-IEnumerable<T>
+IEnumerable<T> => IEnumerator<T> GetEnumerator()
 ICollection<T>
 IList<T>
 .....

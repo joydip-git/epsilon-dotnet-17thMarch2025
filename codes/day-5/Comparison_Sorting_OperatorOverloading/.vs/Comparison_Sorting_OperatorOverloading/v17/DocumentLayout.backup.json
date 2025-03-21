@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\comparison_sorting_operatoroverloading\\comparison_sorting_operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|solutionrelative:comparison_sorting_operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\comparison_sorting_operatoroverloading\\comparison_sorting_operatoroverloading\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|solutionrelative:comparison_sorting_operatoroverloading\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\comparison_sorting_operatoroverloading\\comparison_sorting_operatoroverloading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B2B29C-ACAF-414D-BEC7-192AC58DC0C3}|Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading.csproj|solutionrelative:comparison_sorting_operatoroverloading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonComparer.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\PersonComparer.cs",
+              "RelativeDocumentMoniker": "Comparison_Sorting_OperatorOverloading\\PersonComparer.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\PersonComparer.cs",
+              "RelativeToolTip": "Comparison_Sorting_OperatorOverloading\\PersonComparer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:58:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\Person.cs",
+              "RelativeDocumentMoniker": "Comparison_Sorting_OperatorOverloading\\Person.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\Person.cs",
+              "RelativeToolTip": "Comparison_Sorting_OperatorOverloading\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:07:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "Comparison_Sorting_OperatorOverloading\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\Comparison_Sorting_OperatorOverloading\\Comparison_Sorting_OperatorOverloading\\Program.cs*",
+              "RelativeToolTip": "Comparison_Sorting_OperatorOverloading\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:02:06.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

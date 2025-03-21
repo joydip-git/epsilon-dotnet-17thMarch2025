@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Comparison_Sorting_OperatorOverloading/1.0.0": {
+        "runtime": {
+          "Comparison_Sorting_OperatorOverloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comparison_Sorting_OperatorOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
