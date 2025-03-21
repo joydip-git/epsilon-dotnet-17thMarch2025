@@ -37,3 +37,37 @@ Note: id should be of type string, such as: PRO-001
 Notes:
 	exception handling is MUST in every method, but the exception details will be displayed ONLY in the Main method
 	use modularity (multiple methods, each doing exactly one job)
+
+
+
+architecture:
+
+repository:
+ProductRepository => static class
+data member => products (HashSet<Product>)
+property => Products (read only)
+
+data access layer:
+name: ProductDao
+data members: ???
+functionalities:
+	- bool AddProduct(Product p)=> adds the product in the repo
+	- bool DeleteProduct(int id)=> deletes the product from the repo
+	- bool UpdateProduct(int id, Product p)=> updates the product in the repo
+	- List<Product> GetProducts() => returns all the products from the repo
+	- Product GetProduct(int id) => returns a product
+
+business layer:
+	- method to autogenerate the product id
+	- method to sort
+	- other methods interacting with DAL methods
+
+user-interface layer:
+	- 
+
+
+
+
+
+
+
