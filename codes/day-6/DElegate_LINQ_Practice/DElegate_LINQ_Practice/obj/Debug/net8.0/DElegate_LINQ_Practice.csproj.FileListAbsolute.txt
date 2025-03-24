@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\bin\Debug\net8.0\DElegate_LINQ_Practice.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\bin\Debug\net8.0\DElegate_LINQ_Practice.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\bin\Debug\net8.0\DElegate_LINQ_Practice.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\bin\Debug\net8.0\DElegate_LINQ_Practice.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\bin\Debug\net8.0\DElegate_LINQ_Practice.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\refint\DElegate_LINQ_Practice.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\DElegate_LINQ_Practice.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-6\DElegate_LINQ_Practice\DElegate_LINQ_Practice\obj\Debug\net8.0\ref\DElegate_LINQ_Practice.dll

@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{7599C5D3-1AC3-4E54-80A2-4D0AC7099542}|LinqDemo\\LinqDemo.csproj|solutionrelative:linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\DelegateDemo\\DelegateDemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7599C5D3-1AC3-4E54-80A2-4D0AC7099542}|LinqDemo\\LinqDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-5\\linqdemo\\linqdemo\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7599C5D3-1AC3-4E54-80A2-4D0AC7099542}|LinqDemo\\LinqDemo.csproj|solutionrelative:linqdemo\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,19 +21,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\day-6\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "RelativeToolTip": "..\\..\\day-6\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:28:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Logic.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\LinqDemo\\LinqDemo\\Logic.cs",
               "RelativeDocumentMoniker": "LinqDemo\\Logic.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\LinqDemo\\LinqDemo\\Logic.cs",
               "RelativeToolTip": "LinqDemo\\Logic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:07:40.392Z",
+              "WhenOpened": "2025-03-24T04:19:04.581Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +57,9 @@
               "RelativeDocumentMoniker": "LinqDemo\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\LinqDemo\\LinqDemo\\Program.cs",
               "RelativeToolTip": "LinqDemo\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:04:58.017Z",
+              "WhenOpened": "2025-03-24T04:18:38.212Z",
               "EditorCaption": ""
             }
           ]

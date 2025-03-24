@@ -1,0 +1,46 @@
+Action<in T> => delegate void Action<in T>(TInput a)
+Action<int> printDel = (x) => Console.WriteLine(x);
+
+Predicate<in T> => delegate bool Predicate<in T>(TInput a)
+
+Func<out TResult> 
+	=> delegate TResult Func<out TResult>()
+
+Func<in T1, out TResult> 
+	=> delegate TResult Func<in T1, out TResult>(T1 x)
+
+Func<int,bool> logic = x => x>4;
+
+Func<in T1, in T2, out TResult> 
+	=> delegate TResult Func<in T1, in T2, out TResult>(T1 x,T2 y)
+
+.....
+Func<in T1, in T2,..in T16, out TResult> 
+	=> delegate TResult Func<in T1, in T2, out TResult>(T1 x,T2 y,..,T16 a)
+ 
+Comparison<in T> => delegate int Comparison<in T>(T x, T y);
+
+Comparison<int> comp = (x,y) => x-y;
+Comparison<int> comp = (x,y) => x.CompareTo(y);
+
+delegate TResult CalDel<in TInput, out TResult>(TInput a, TInput b);
+CalDel<int,int> divDel = (m, n) => n > 0 ? m / n : 0;
+
+
+package name: Microsoft.Data.SqlClient
+
+SqlConnection => connect with the database
+
+SQL Server Auth:
+"server=;database=;user id=sa;password=;TrustServerCertificate=true"
+
+Windows Auth:
+"server=;database=;Intergrated Security=true;TrustServerCertificate=true"
+
+
+
+
+
+
+
+

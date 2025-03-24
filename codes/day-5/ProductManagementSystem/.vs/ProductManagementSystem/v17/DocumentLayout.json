@@ -42,8 +42,7 @@
               "RelativeToolTip": "ProductManagementSystem\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:54:08.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T09:54:08.148Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ProductManagementSystem\\UserInterface\\PmsUserInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:23:38.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T09:23:38.448Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "ProductManagementSystem\\BusinessLayer\\BusinessUtility.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:21:52.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T09:21:52.702Z"
             },
             {
               "$type": "Document",
@@ -79,7 +76,7 @@
               "RelativeDocumentMoniker": "ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-5\\ProductManagementSystem\\ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
               "RelativeToolTip": "ProductManagementSystem\\DataAccessLayer\\ProductDaoComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T08:48:19.038Z",
               "EditorCaption": ""
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ProductManagementSystem\\BusinessLayer\\ProductBusinessComponent.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAE4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T07:43:11.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:43:11.4Z"
             }
           ]
         }

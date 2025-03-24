@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DElegate_LINQ_Practice/1.0.0": {
+        "runtime": {
+          "DElegate_LINQ_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DElegate_LINQ_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
