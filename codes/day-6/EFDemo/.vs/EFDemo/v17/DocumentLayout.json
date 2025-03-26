@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-6\\efdemo\\efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-6\\efdemo\\efdemo\\dal\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\dal\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-6\\efdemo\\efdemo\\repository\\epsilondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\repository\\epsilondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-6\\efdemo\\efdemo\\dal\\idataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB30F6E-7CF8-4DBA-BAF4-207FAF87B2B9}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\dal\\idataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\Program.cs",
+              "RelativeToolTip": "EFDemo\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:30:16.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EpsilonDbContext.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\Repository\\EpsilonDbContext.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Repository\\EpsilonDbContext.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\Repository\\EpsilonDbContext.cs",
+              "RelativeToolTip": "EFDemo\\Repository\\EpsilonDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:29:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataAccessComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\DAL\\IDataAccessComponent.cs",
+              "RelativeDocumentMoniker": "EFDemo\\DAL\\IDataAccessComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\DAL\\IDataAccessComponent.cs",
+              "RelativeToolTip": "EFDemo\\DAL\\IDataAccessComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:27:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\DAL\\ProductDao.cs",
+              "RelativeDocumentMoniker": "EFDemo\\DAL\\ProductDao.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-6\\EFDemo\\EFDemo\\DAL\\ProductDao.cs",
+              "RelativeToolTip": "EFDemo\\DAL\\ProductDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:20:32.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

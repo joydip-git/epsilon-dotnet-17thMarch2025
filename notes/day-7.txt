@@ -1,0 +1,126 @@
+ADO.NET
+
+Data Providers:
+	SQL Server Data Provider: Microsoft.Data.SqlClient
+			SqlConnection
+			SqlCommand
+			SqlDataReader
+			etc.
+
+	Oracle Data Provider: System.Data.OracleClient
+			OracleConnection
+			OracleCommand
+			OracleDataReader
+			etc.
+
+	OleDb Data Provider: System.Data.OleDb
+			OleDbConnection
+			OleDbCommand
+			OleDbDataReader
+			etc.
+	...
+
+
+Entity Framework: used with legacy .NET Framework (4.8)
+package name: Microsoft.EntityFramwork
+	Object-Relational Mapping
+	Different class objects will be mapped to either database or table(s)
+	the developer will work with the objects, behind the scene the EF will take of interaction with database
+
+POCO => Plain old CLR object
+
+1. Db-first approach => using EF you will create classes to map to the existing database and tables
+2. Code-first approach => database and tables will be created based on classes
+3. Model-first approach => based on database models the database and tables will be created as well as mapping classes will be created
+
+Entity Framework Core => used with .NET
+	package name: Microsoft.EntityFramworkCore
+
+to work with SQL server:
+	package name: Microsoft.EntityFrameworkCore.SqlServer
+	additional packages:
+		1. Microsoft.EntityFrameworkCore.Design: Shared design-time components for Entity Framework Core tools. (ef tool)
+		2. Microsoft.EntityFrameworkCore.Tools: Entity Framework Core Tools for the NuGet Package Manager Console in Visual Studio.
+
+
+Mapping Techniques:
+	1. using Attributes on the POCO class
+	2. Using Fluent API in the DbContext class
+
+
+DbContext => the base class to inherit from while creating your application specific DbContext class
+
+DbContextOptions => the class which is used to configure DbContext class, such as providng connection string to the DbContext class object to connect to a database
+
+DbContextOptionsBuilder => Builds a DbContextOptions class object.
+
+
+
+Dependency Injection:
+.NET 8 Container and DI support (not available by default in console app, but available in other apps)
+package name: Microsoft.Extensions.DependencyInjection
+
+Container class: ServiceCollection
+Container interface: IServiceCollection
+
+Provider class: ServiceProvider
+Provider intercace: IServiceProvider
+
+
+interface IA 
+{
+	string Method();
+}
+class X:IA
+{
+	public X(){ //code }
+	public string Method();
+	{
+		 return "hellofrom X...";
+	}
+}
+class Y:IA
+{
+	public Y(){ //code }
+	public string Method();
+	{
+		 return "hello from Y...";
+	}
+}
+
+class Container
+{
+	public IA Create()
+	{
+		return new X();
+	}
+}
+
+
+
+
+
+
+class B
+{
+	private IA obj;
+	public B(IA obj)
+	{
+		this.obj = obj;
+	}
+	public void BMethod()
+	{		
+		obj.Method();
+	}
+}
+
+Main()
+{
+	B bObj = new B(new Y());
+	bObj.BMethod();
+}
+
+
+	
+
+
