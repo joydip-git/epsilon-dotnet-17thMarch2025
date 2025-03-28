@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\bin\Debug\net8.0\NewFeatures.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\refint\NewFeatures.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\NewFeatures.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\NewFeatures\NewFeatures\obj\Debug\net8.0\ref\NewFeatures.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTopLevelStatementFetaure", "UsingTopLevelStatementFetaure\UsingTopLevelStatementFetaure.csproj", "{9BE173E8-722F-4FAE-8014-EB3FD38244CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE173E8-722F-4FAE-8014-EB3FD38244CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE173E8-722F-4FAE-8014-EB3FD38244CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE173E8-722F-4FAE-8014-EB3FD38244CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE173E8-722F-4FAE-8014-EB3FD38244CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D875D1D3-DF44-4DE8-9990-4C5B6B8CD514}
+	EndGlobalSection
+EndGlobal

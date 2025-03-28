@@ -1,0 +1,21 @@
+Top level statement
+local function
+sortedlist and dictionary
+
+ASP.NET CORE: framework to create web apps
+	1. Razor page application
+	2. MVC web application
+	3. Web API application	[RESTful API]
+	4. Blazor application
+
+.NET Core Runtime
+	ASP.NET Core Runtime
+
+
+REST => Representational State Transfer
+
+Controller class in RESTful API inherits from base class: ControllerBase and is annotated with [ApiController] attribute
+
+Controller class in MVC Web App inherits from base class: Controller
+
+

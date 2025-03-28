@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.AssemblyInfo.cs
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.sourcelink.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.exe
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.deps.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.runtimeconfig.json
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\refint\TopLevelStatement.dll
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.pdb
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.genruntimeconfig.cache
+D:\training\epsilon-dotnet-17thMarch2025\codes\day-8\TopLevelStatement\TopLevelStatement\obj\Debug\net8.0\ref\TopLevelStatement.dll
