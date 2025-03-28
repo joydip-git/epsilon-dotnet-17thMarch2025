@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W8mgA9yXhgm+OOoo6+Krp0zSQH4WhiiQHq+RTejZmi0=",
+  "Source": "ContactServiceApp",
+  "BasePath": "_content/ContactServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
