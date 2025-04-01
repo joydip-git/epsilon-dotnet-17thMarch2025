@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Program.cs",
+              "RelativeToolTip": "ContactManagementSystem\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:04:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T03:59:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T03:53:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManagementSystem\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAzwCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:46:57.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

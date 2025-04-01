@@ -1,0 +1,57 @@
+ASP.NET Core Web API application:
+--------------------------------
+minimum services required for Web API app:
+[builder is a reference variable of type WebApplicationBuilder]
+
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+
+WebApplication app = builder.Build();
+
+minimum middleware required:
+app.MapController();
+
+Attributed Routing:
+[Route] => attribute to create routes for Web API actions
+
+
+ASP.NET Core MVC application:
+--------------------------------
+minimum services required for MVC app:
+[builder is a reference variable of type WebApplicationBuilder]
+
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+WebApplication app = builder.Build();
+
+minimum middleware required:
+app.MapControllerRoute();
+
+MVC routing:
+route pattern => {controller}/{action}/{value?}
+
+app.MapControllerRoute(<route-name>,<pattern>,<default-route>);
+
+
+Razor View Engine => interpret the CSHTML file's Razor syntax code (CS+HTML) and produce an HTML file, to be sent to the client as response
+
+Whichever action in MVC controller wants to return a view must call the View() method of the base class "Controller" (from which your controller inherits). That produces ViewResult (implements IActionResult interface). This ViewResult is passed to Razor View Engine, which executes the C# code in the file and produces the HTML output (response).
+
+
+http://localhost:4200/{controller-name}/{action-name}
+
+	=> [content view ]*.cshtml + _Layout.cshtml [Layout view]
+
+
+Types of Views:
+------------
+1. Loosely typed view => any type of data can be passed to view from controller and vice versa. this time any type of data can be passed to and from controller action to view using ViewBag or ViewDataDictionary object.
+
+2. strongly typed view => the view can receive a particular type of data from and pass data to a controller action via "View()" method
+
+
+
+
+
+
+
