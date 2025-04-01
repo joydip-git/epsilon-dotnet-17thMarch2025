@@ -1,0 +1,14 @@
+﻿@model ContactModel
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">
+            @Model.Location
+        </h6>
+        <span>Email: &nbsp; @Model.EmailId</span>
+        <span>Mobile: &nbsp; @Model.MobileNumber</span>
+        <a asp-action="UpdateContact" asp-route-value=@Model.MobileNumber class="btn btn-primary">Edit</a>
+    </div>
+
+</div>

@@ -1,0 +1,28 @@
+﻿@model ContactModel
+
+<form asp-action="AddContact" method="post">
+    <fieldset>
+        <legend><h2>Add New Contact</h2></legend>
+        @* <div> *@
+        @*     <label asp-for=MobileNumber></label> *@
+        @*     <input type="text" asp-for=MobileNumber /> *@
+        @* </div> *@
+        <div>
+            <label asp-for=Name></label>
+            <input type="text" asp-for=Name />
+        </div>
+        <div>
+            <label asp-for=EmailId></label>
+            <input type="text" asp-for=EmailId />
+        </div>
+        <div>
+            <label asp-for=Location></label>
+            <input type="text" asp-for=Location />
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Add" class="btn btn-primary" />
+        </div>
+    </fieldset>
+</form>
+

@@ -1,0 +1,23 @@
+﻿@model List<string>;
+
+@{
+    var nameValueFromViewData = this.ViewData["name"] as string;
+    var nameValueFromViewBag = this.ViewBag.UserName as string;
+
+    //passed via View() method from controller action "Index"
+    // var nameValueFromModel = this.Model;
+    var names = this.Model;
+}
+<h2>Welcome to CMS @nameValueFromViewBag</h2>
+<br />
+<h2>Welcome to CMS @nameValueFromViewData</h2>
+<br />
+@* <h2>Welcome to CMS @nameValueFromModel</h2> *@
+<ul>
+    @{
+       foreach (string name in Model)
+        {
+            <li>@name</li>
+        }
+    }
+</ul>

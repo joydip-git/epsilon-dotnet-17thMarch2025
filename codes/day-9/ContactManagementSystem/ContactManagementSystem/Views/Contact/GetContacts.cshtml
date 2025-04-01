@@ -1,0 +1,30 @@
+﻿@model List<ContactModel>
+
+<h2>List of Contacts</h2>
+<br />
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Mobile</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>
+                        <a asp-action="GetContact" asp-route-value=@item.MobileNumber>@item.MobileNumber</a>
+                    </td>
+                    <td>
+                        <a asp-action="DeleteContact" asp-route-value=@item.MobileNumber class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

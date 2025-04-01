@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\models\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\models\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\models\\icontactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\models\\icontactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\getcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\getcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\controllers\\indexaction.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\controllers\\indexaction.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|d:\\training\\epsilon-dotnet-17thmarch2025\\codes\\day-9\\contactmanagementsystem\\contactmanagementsystem\\views\\contact\\index.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE706876-3A40-41A4-90C3-99CE982200EB}|ContactManagementSystem\\ContactManagementSystem.csproj|solutionrelative:contactmanagementsystem\\views\\contact\\index.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,53 +71,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T06:58:38.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\ContactManager.cs",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Models\\ContactManager.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\ContactManager.cs",
+              "RelativeToolTip": "ContactManagementSystem\\Models\\ContactManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:43:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetContacts.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\GetContacts.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\GetContacts.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T05:40:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IndexAction.txt",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\IndexAction.txt",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Controllers\\IndexAction.txt",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\IndexAction.txt",
+              "RelativeToolTip": "ContactManagementSystem\\Controllers\\IndexAction.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T05:23:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "ContactManagementSystem\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Program.cs",
               "RelativeToolTip": "ContactManagementSystem\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T04:04:21.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T03:59:09.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\Index.cshtml",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-01T03:53:11.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ContactController.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "ContactManagementSystem\\Controllers\\ContactController.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Controllers\\ContactController.cs",
               "RelativeToolTip": "ContactManagementSystem\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAzwCwAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAzwHcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T03:46:57.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateContact.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\UpdateContact.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\UpdateContact.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T06:27:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactManager.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\IContactManager.cs",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Models\\IContactManager.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\IContactManager.cs",
+              "RelativeToolTip": "ContactManagementSystem\\Models\\IContactManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:03:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Models\\ContactModel.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Models\\ContactModel.cs",
+              "RelativeToolTip": "ContactManagementSystem\\Models\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:50:22.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetContact.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\GetContact.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\GetContact.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\GetContact.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\GetContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T06:18:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T03:59:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.txt",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.txt",
+              "RelativeDocumentMoniker": "ContactManagementSystem\\Views\\Contact\\Index.txt",
+              "ToolTip": "D:\\training\\epsilon-dotnet-17thMarch2025\\codes\\day-9\\ContactManagementSystem\\ContactManagementSystem\\Views\\Contact\\Index.txt",
+              "RelativeToolTip": "ContactManagementSystem\\Views\\Contact\\Index.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T05:21:40.94Z",
               "EditorCaption": ""
             }
           ]

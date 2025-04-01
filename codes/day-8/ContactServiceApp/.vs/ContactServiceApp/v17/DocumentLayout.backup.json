@@ -55,8 +55,7 @@
               "RelativeToolTip": "ContactServiceApp\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T10:10:28.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T10:10:28.729Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ContactServiceApp\\Repository\\EpsilonDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T10:10:11.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T10:10:11.395Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ContactServiceApp\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T10:07:56.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T10:07:56.74Z"
             }
           ]
         }

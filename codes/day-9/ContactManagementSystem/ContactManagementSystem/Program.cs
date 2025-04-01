@@ -1,3 +1,4 @@
+using ContactManagementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 var container = builder.Services;
 container.AddControllersWithViews();
+container.AddScoped<IContactManager, ContactManager>();
 
 var app = builder.Build();
 

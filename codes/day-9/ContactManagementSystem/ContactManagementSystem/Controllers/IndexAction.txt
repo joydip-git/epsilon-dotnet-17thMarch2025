@@ -1,0 +1,31 @@
+﻿//public IActionResult Index(string value)
+        // {
+        //    logger.LogInformation($"received name: {value}");
+        //    this.ViewData["name"] = value;
+        //    return View();
+        //}
+
+        //public IActionResult Index([FromRoute(Name ="value")]string name)
+        //{
+        //    logger.LogInformation($"received name: {name}");
+        //    this.ViewData["name"] = name;
+        //    return View();
+        //}
+
+        //public IActionResult Index([FromRoute(Name = "value")] string name)
+        //{
+        //    logger.LogInformation($"received name: {name}");
+        //    this.ViewBag.UserName = name;
+        //    return View();
+        //}
+
+        public IActionResult Index([FromRoute(Name = "value")] string name)
+        {
+            logger.LogInformation($"received name: {name}");
+            this.ViewData["name"] = name;
+            this.ViewBag.UserName = name;
+
+            //this data will stored in a viewdatadictionary object actually
+            //return View(nameof(Index), name);
+            return this.View(new List<string> { "anil", "sunil" });
+        }

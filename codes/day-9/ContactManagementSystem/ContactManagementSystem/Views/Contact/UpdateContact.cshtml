@@ -1,0 +1,24 @@
+﻿@model ContactModel
+
+<form asp-action="UpdateContact" method="post">
+    <div>
+        <label asp-for=MobileNumber></label>
+        <input type="text" asp-for=MobileNumber value=@Model.MobileNumber readonly />
+    </div>
+    <div>
+        <label asp-for=Name></label>
+        <input type="text" asp-for=Name value=@Model.Name />
+    </div>
+    <div>
+        <label asp-for=EmailId></label>
+        <input type="text" asp-for=EmailId value=@Model.EmailId />
+    </div>
+    <div>
+        <label asp-for=Location></label>
+        <input type="text" asp-for=Location value=@Model.Location />
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Update" class="btn btn-primary" />
+    </div>
+</form>
