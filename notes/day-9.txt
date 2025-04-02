@@ -47,7 +47,28 @@ Types of Views:
 ------------
 1. Loosely typed view => any type of data can be passed to view from controller and vice versa. this time any type of data can be passed to and from controller action to view using ViewBag or ViewDataDictionary object.
 
-2. strongly typed view => the view can receive a particular type of data from and pass data to a controller action via "View()" method
+2. strongly typed view => the view can receive a particular type of data from and pass data to a controller action via "View()" method. It does not mean that the view can render only one type of data, but can receive only ine type of data from the controller action directly (or can pass to controller action)
+
+
+[
+  {
+    "mobileNumber": 9090909090,
+    "name": "Anil",
+    "location": "Bangalore",
+    "emailId": "anil@gmail.com"
+  }
+]
+
+=> 
+[
+	new ContactModel
+	{
+    		"mobileNumber": 9090909090,
+	    	"name": "Anil",
+    		"location": "Bangalore",
+	    	"emailId": "anil@gmail.com"
+  	}	
+]
 
 
 
